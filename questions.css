@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: larger;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    flex: 1;
+}
+
+h1 {
+    font-size: 35px;
+    color: white;
+    text-decoration: underline;
+    margin: 20px 0;
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+form {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    margin-bottom: 25px;
+}
+
+.form-options {
+    display: flex; 
+    justify-content: center; 
+    gap: 55px; 
+    font-size: 22px;
+}
+
+.form-options div {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center; 
+}
+
+input[type="radio"] {
+    margin-bottom: 10px; 
+}
+
+.center-button {
+    margin-top: 20px; 
+    padding: 10px 20px; 
+    display: block; 
+    margin: 20px auto; 
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+button:hover {
+    background-color: rgb(197, 197, 197);
+}
+
+html {
+    background-color: darkred;
+}
+
+input {
+    height: 15px;
+    width: 15px;
+}
+
+

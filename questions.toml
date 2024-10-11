@@ -1,0 +1,256 @@
+[[questions]]
+question = "Galadriel is the grandmother of whom?"
+answer = "Arwen"
+alternatives = ["Frodo", "Legolas", "Gandalf"]
+img = "https://artistmonkeys.com/wp-content/uploads/2021/10/Galadriel-in-Lorien-at-night.jpg"
+
+[[questions]]
+question = "Elrond is the lord of what Elven realm?"
+answer = "Rivendell"
+alternatives = ["Mirkwood", "Grey Havens", "Lothlórien"]
+img = "https://static.wikia.nocookie.net/pjmidearthfilms/images/d/da/Elrond.jpg/revision/latest?cb=20190710073014"
+
+[[questions]]
+question = "How old is Aragorn at the time of the War of the Ring?"
+answer = "87"
+alternatives = ["42", "67", "59"]
+img = "https://static.wikia.nocookie.net/lotr/images/b/ba/Anduril.jpg/revision/latest?cb=20210730211126"
+
+[[questions]]
+question = "Who gave Narya to Gandalf?"
+answer = "Círdan"
+alternatives = ["Gil-galad", "Elrond", "Celebrimbor"]
+
+[[questions]]
+question = "Who became a member of the Tower Guard?"
+answer = "Pippin"
+alternatives = ["Sam", "Faramir", "Merry"]
+
+[[questions]]
+question = "The Nazgûl were originally what?"
+answer = "Men"
+alternatives = ["Orcs", "Dwarves", "Elves"]
+image = "https://circlesofpower.neocities.org/seconddarkness/nazgul.gif"
+
+[[questions]]
+question = "Who is Galadriel's father?"
+answer = "Finwë"
+alternatives = ["Elrond", "Gil-galad", "Celebrían"]
+
+[[questions]]
+question = "Nenya is the Ring of what?"
+answer = "Water"
+alternatives = ["Fire", "Air", "Earth"]
+image = "https://static.wikia.nocookie.net/lotr/images/0/0e/Nenya_02.jpg/revision/latest?cb=20210627213859"
+
+[[questions]]
+question = "Lúthien chose mortality when she married whom?"
+answer = "Beren"
+alternatives = ["Aragorn", "Éomer", "Elendil"]
+
+[[questions]]
+question = "What is the name of the island kingdom of men that is destroyed by Eru Illúvatar?"
+answer = "Númenor"
+alternatives = ["Arnor", "Gondor", "Rohan"]
+image = "https://cdnb.artstation.com/p/assets/images/images/068/642/719/large/jorge-jacinto-fall-of-numenor.jpg?1698309614"
+
+[[questions]]
+question = "What name did Sauron go by when he created the Rings of Power?"
+answer = "Annatar"
+alternatives = ["Elessar", "Isildur", "Celeborn"]
+image = "https://external-preview.redd.it/uF5rGPownPBRiLiq7RiUIUaYIhlEZd0tlcUY9q6PhNw.jpg?auto=webp&s=bfb642ae4a515daaae9e42925bcd90d4afa14997"
+
+[[questions]]
+question = "What type of creature was Ungoliant?"
+answer = "Spider"
+alternatives = ["Bear", "Wolf", "Orc"]
+
+[[questions]]
+question = "Who was Theoden's grandfather that Aragorn rode to war with?"
+answer = "Thengel"
+alternatives = ["Theodred", "Gamling", "Hama"]
+
+[[questions]]
+question = "What was the hidden kingdom of the Elves in the First Age?"
+answer = "Gondolin"
+alternatives = ["Lothlórien", "Imladris", "Lindon"]
+img = "https://cdnb.artstation.com/p/assets/images/images/062/442/793/4k/aesthetica-pokemac-gondolin-that-looks-like-this-image-df038fb3-1d2b-4d9b-9783-c42db7c69f4f-1-transformed.jpg?1683139286"
+
+[[questions]]
+question = "What creature destroyed the Dwarves of Moria?"
+answer = "Balrog"
+alternatives = ["Cave Troll", "Goblin", "Dragon"]
+
+[[questions]]
+question = "What is the name of Gimli's father?"
+answer = "Gloin"
+alternatives = ["Durin", "Denethor", "Thorin"]
+img = "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/11/Gimli-Quotes-Success.jpg"
+
+[[questions]]
+question = "What is the name of the largest dragon of Middle-Earth?"
+answer = "Ancalagon the Black"
+alternatives = ["Smaug the Golden", "Glaurung", "Gothmog"]
+
+[[questions]]
+question = "What is the name of Morgoth's first fortress?"
+answer = "Utumno"
+alternatives = ["Mordor", "Isengard", "Angband"]
+image = "https://i.redd.it/ai-prompt-morgoths-fortress-utumno-v0-9dkibht5dmea1.jpg?width=512&format=pjpg&auto=webp&s=d196417fb9ab208a0ba4836a9b4a730724a745ac"
+
+[[questions]]
+question = "How many years did Bilbo have the One Ring?"
+answer = "60"
+alternatives = ["10", "100", "45"]
+
+[[questions]]
+question = "Who was Sauron's master before being cast into the Void?"
+answer = "Morgoth"
+alternatives = ["Saruman", "Gothmog", "Manwë"]
+image = "https://static.wikia.nocookie.net/lotr/images/2/29/Morgoth_by_Guillem_H._Pongiluppi.png/revision/latest/scale-to-width-down/340?cb=20230617214752"
+
+[[questions]]
+question = "How many years does Aragorn rule as king?"
+answer = "122"
+alternatives = ["50", "28", "94"]
+
+[[questions]]
+question = "The Tower of the Moon later became known as what?"
+answer = "Minas Morgul"
+alternatives = ["Orthanc", "Cirith Ungol", "Edoras"]
+
+[[questions]]
+question = "What animal saved Gandalf from Isengard?"
+answer = "Eagle"
+alternatives = ["Moth", "Dragon", "Snake"]
+
+[[questions]]
+question = "Who created the Silmarils?"
+answer = "Fëanor"
+alternatives = ["Galadriel", "Glorfindel", "Mandos"]
+image = "https://www.tolkienroad.com/wp-content/uploads/2022/11/feanor_and_the_silmarils_by_bellabergolts_dd3kf9g-pre.jpeg"
+
+[[questions]]
+question = "Who created the Palantír?"
+answer = "Fëanor"
+alternatives = ["Saruman", "Sauron", "Denethor"]
+image = "https://images.squarespace-cdn.com/content/v1/5fbc4a62c2150e62cfcb09aa/1664073185195-26YOYGKGYOD2BMYZS0CQ/Palantir.jpg"
+
+[[questions]]
+question = "The first sources of light in Arda were two what?"
+answer = "Lamps"
+alternatives = ["Trees", "Mirrors", "Stars"]
+
+[[questions]]
+question = "What Dwarven realm fell to a dragon?"
+answer = "Erebor"
+alternatives = ["Moria", "Dale", "Iron Hills"]
+
+[[questions]]
+question = "Orcs were originally what?"
+answer = "Elves"
+alternatives = ["Men", "Hobbits", "Dwarves"]
+
+[[questions]]
+question = "Saruman breeds an army of what in Isengard's caverns?"
+answer = "Uruk-hai"
+alternatives = ["Trolls", "Goblins", "Wolves"]
+
+[[questions]]
+question = "What capital city is the focus of Sauron's invasion during the War of the Ring?"
+answer = "Minas Tirith"
+alternatives = ["Edoras", "Cair Andros", "Osgiliath"]
+
+[[questions]]
+question = "Who wields the sword Glamdring?"
+answer = "Gandalf"
+alternatives = ["Frodo", "Aragorn", "Boromir"]
+
+[[questions]]
+question = "Boromir is the son of whom?"
+answer = "Denethor"
+alternatives = ["Aragorn", "Gandalf", "Theoden"]
+
+[[questions]]
+question = "Who wears Vilya, the Ring of Air?"
+answer = "Elrond"
+alternatives = ["Galadriel", "Gandalf", "Celeborn"]
+
+[[questions]]
+question = "What is the name of Sauron's fortress in Mirkwood?"
+answer = "Dol Guldur"
+alternatives = ["Barad-dûr", "Orthanc", "Minas Morgul"]
+
+[[questions]]
+question = "What race does Tom Bombadil belong to?"
+answer = "Unknown"
+alternatives = ["Men", "Dwarves", "Hobbits"]
+
+[[questions]]
+question = "The Easterlings are from what region of Middle-Earth?"
+answer = "Rhûn"
+alternatives = ["Rohan", "Iron Hills", "Umbar"]
+img = "https://static.wikia.nocookie.net/pjmidearthfilms/images/f/f5/Easterling_soldiers.jpg/revision/latest?cb=20210420125914"
+
+[[questions]]
+question = "Who destroyed the Northern Kingdom of Arnor?"
+answer = "The Witch-King of Angmar"
+alternatives = ["Morgoth", "Sauron", "Saruman"]
+
+[[questions]]
+question = "Grond was the name of what weapon wielded by Morgoth?"
+answer = "Hammer"
+alternatives = ["Sword", "Spear", "Ax"]
+
+[[questions]]
+question = "Which Elven king challenged Morgoth to single combat?"
+answer = "Fingolfin"
+alternatives = ["Turgon", "Finrod", "Finwë"]
+image = "https://preview.redd.it/after-this-fight-fingolfin-never-returned-home-morgoth-v0-js25gc6a3k3b1.jpg?auto=webp&s=1a91b96fa13965e2540f9af858d358b2f461c1c3"
+
+[[questions]]
+question = "What is the name of Morgoth's second fortress in the Iron Mountains?"
+answer = "Angband"
+alternatives = ["Utumno", "Mordor", "Isengard"]
+image = "https://i.redd.it/7vqnwzsrffo71.jpg"
+
+[[questions]]
+question = "What conflict saw Morgoth defeated and thrown into the Void?"
+answer = "The War of Wrath"
+alternatives = ["The War of the Jewels", "The War of the Powers", "The Dagor Dagorath"]
+
+[[questions]]
+question = "Who was the King of Gondor that challeneged the Witch-King to single combat?"
+answer = "Eärnur"
+alternatives = ["Aragorn", "Elendil", "Argeleb"]
+
+[[questions]]
+question = "What royal heirloom was a gift from the Elven king Finrod?"
+answer = "Ring of Barahir"
+alternatives = ["Narsil", "Andúril", "Evenstar"]
+
+[[questions]]
+question = "What name does Aragorn take as king?"
+answer = "Elessar"
+alternatives = ["Estel", "Thorongil", "Strider"]
+
+[[questions]]
+question = "Who is the Supreme Being of Eä?"
+answer = "Eru Ilúvatar"
+alternatives = ["Manwë", "Morgoth", "Varda Elentarí"]
+
+[[questions]]
+question = "The Istarí were an order of what?"
+answer = "Wizards"
+alternatives = ["Elves", "Spies", "Kings"]
+
+[[questions]]
+question = "Mithrandir was another name for whom?"
+answer = "Gandalf"
+alternatives = ["Aragorn", "Saruman", "Galadriel"]
+
+[[questions]]
+question = "Who is the prince of Mirkwood?"
+answer = "Legolas"
+alternatives = ["Gimli", "Boromir", "Elrond"]
+

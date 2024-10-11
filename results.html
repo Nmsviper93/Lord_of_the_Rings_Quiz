@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='results.css') }}">
+    <title>Quiz Results</title>
+</head>
+<body>
+    <br>
+    <h1>Your Results</h1>
+    <br>
+    <p>You got {{ score }} out of {{ 8 }} questions correct!</p>
+    <br>
+    {% if score >= 7 %}
+        <p>All hail Eru Illúvatar, creator of Eä and knower of all things!!</p>
+        <div class="container">
+            <img src="https://tolkienology.net/glossary/eru-iluvatar/" alt="Eru" class="eru">
+            <p class="quote"><i>"There was Eru, the One, who in Arda is called Ilúvatar..."</i></p>
+        </div>
+        <br> 
+    {% elif 4 <= score <= 6 %}
+        <p>You should touch up on your knowledge a little, perhaps visit the <a href="https://lotr.fandom.com/wiki/Main_Page"><u>library of Minas Tirith?</u></a></p>
+        <br>
+        <br>
+        <div class="container">
+            <img src="https://preview.redd.it/back-in-the-day-i-wanted-to-give-my-girlfriend-a-mythical-v0-ztau28z41lmb1.png?width=640&crop=smart&auto=webp&s=4fee73c6371dc8456f13c77e63b47fab412a1879" alt="library" class="library">
+            <p class="quote"><i>"The year 3434 of the Second Age...."</i></p>
+        </div>
+        <br>
+        <br>
+    {% else %}
+        <p>How disappointing.</p>
+        <p>Go read <a href="https://www.barnesandnoble.com/w/the-silmarillion-j-r-r-tolkien/1141258421?ean=9780063280779"><i><u>The Silmarillion</u></i></a> multiple times and rethink your life before you get eaten by a dragon.</p>
+        <br>
+        <br>
+        <div class="container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJ-Bf6-VfREpqm63tiLm3T14_NJXIz9JypA&s" alt="Ancalagon" class="ancalagon">
+            <p class="quote"><i>"Tears unnumbered ye shall shed...."</i></p>
+        </div>
+    {% endif %}
+    <a href="/" class="footer">Back to landing page</a>
+
+    <!-- <footer>
+        <p class="footer">&copy; 2024 LoTR Quiz</p>
+    </footer> -->
+</body>
+</html>

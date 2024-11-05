@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='questions.css') }}">
+    <title>Quiz Questions</title>
+</head>
+<body>
+    <br>
+    <h1>Question {{ question_num }} of {{ total_questions }}</h1>
+    <br>
+    <br>
+    <p>{{ question }}</p>
+    <br>
+    <br>
+    
+    <form method="POST">
+        <div class="form-options">
+        {% for alternative in alternatives %}
+            <div>
+                <input type="radio" id="{{ alternative }}" name="answer" value="{{ alternative }}" required>
+                <label for="{{ alternative }}">{{ alternative }}</label>
+            </div>
+        {% endfor %}
+        </div>
+        <br>
+        <br>
+
+        <button type="submit" class="center-button">Submit</button>
+    </form>
+
+    <div id="quiz-container">
+        <!-- <p>Image URL: {{ question_data.image }}</p> Debug line -->
+        <img id="image" src="{{ question_data.image }}" alt="Question Image">
+    </div>
+</body>
+</html>
+

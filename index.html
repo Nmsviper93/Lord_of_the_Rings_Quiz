@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}Index Page{% endblock %}
+
+{% block css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+{% endblock %}
+
+{% block content %}
+<header>
+    <h1>Welcome to Your Project</h1>
+</header>
+<a href="{{ url_for('landing') }}" class="start-button">Go to Landing Page</a> 
+{% endblock %}
+
